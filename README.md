@@ -1,47 +1,47 @@
-# Projects
+# NYC Park Events Dashboard - Shreya Pagadala
 
-NYC Park Events Dashboard - Shreya Pagadala
+## Overview
+This Tableau project provides an interactive dashboard for analyzing NYC park events. The dashboard is designed to offer insights into event distribution, trends, and geographic patterns, assisting stakeholders in data-driven decision-making.
 
-Overview
+## Objectives
+- Visualize the distribution of events across NYC boroughs and parks.
+- Identify seasonal and monthly trends in event occurrences.
+- Provide geospatial insights using interactive maps.
+- Enable users to filter and explore data interactively.
 
-This project provides a comprehensive visualization of NYC park events using Tableau. The dashboard highlights key insights into park event data, aiming to assist users in understanding patterns, distributions, and trends.
+## Key Features
+1. **Event Distribution by Borough**: Displays the count of events in each borough.
+2. **Trend Analysis**: A time-series visualization showing changes in event counts over months/years.
+3. **Event Types Overview**: Pie or bar charts summarizing different event categories.
+4. **Interactive Map**: A map-based visualization highlighting park event locations.
+5. **Dynamic Filters**: Allows filtering by borough, event type, park name, and time range.
 
-Objectives
+## Data Source
+The dataset used in this project is sourced from NYC Open Data, providing comprehensive details about park events, including:
+- Event dates and times
+- Borough and park locations
+- Event types
 
-To analyze the event occurrences across NYC parks.
-To provide intuitive visualizations for better decision-making.
-To enable users to explore park event data interactively.
-Key Features
+## How to Use
+1. Open the `.twbx` file in Tableau Desktop.
+2. Navigate through the available dashboards and worksheets.
+3. Use filters to refine your view and customize the analysis.
+4. Export visualizations as needed for reports or presentations.
 
-Interactive Filters: Users can filter data by event type, date, borough, and park name.
-Trend Analysis: Identify trends over time, including peak event periods.
-Geospatial Insights: Visualize park events across boroughs with map-based representations.
-Data Source
+## System Requirements
+- **Software**: Tableau Desktop 2023.3 or higher.
+- **Skills**: Basic knowledge of Tableau for effective navigation and interaction.
 
-The data used in this workbook is sourced from NYC Open Data. It includes details about park events such as dates, event types, and locations.
+## Author
+- **Name**: Shreya Pagadala  
+- **Email**: [pagadala.sh@northeastern.edu](mailto:pagadala.sh@northeastern.edu)  
+- **LinkedIn**: [Shreya Pagadala](https://www.linkedin.com/in/shreyapagadala/)
 
-Visualizations Included
+## Future Enhancements
+- **Live Data Integration**: Incorporate live feeds for real-time updates.
+- **Advanced Analytics**: Add demographic analysis and seasonal event patterns.
+- **Mobile Optimization**: Adapt dashboard for mobile accessibility.
 
-Event Distribution by Borough: A bar chart displaying the number of events per borough.
-Event Trends Over Time: A line graph showing the event trends by month/year.
-Event Types Overview: Pie or bar charts summarizing the types of events.
-Interactive Map: Geospatial representation of park events.
-How to Use
-
-Open the .twbx file in Tableau Desktop.
-Explore the various dashboards and worksheets.
-Use filters and interactive elements to customize your view.
-Export visualizations or share insights as needed.
-System Requirements
-
-Tableau Desktop 2023.3 or higher.
-Basic knowledge of Tableau for navigation.
-Author
-
-Name: Shreya Pagadala
-Email: pagadala.sh@northeastern.edu
-LinkedIn: Shreya Pagadala
-Future Enhancements
-
-Integration with live data feeds for real-time updates.
-Additional insights such as demographic analysis and seasonal event patterns.
+## File Structure
+- `NYC_Park_Events.twbx`: Tableau workbook containing all visualizations and datasets.
+- `README.md`: This documentation file describing the project.
