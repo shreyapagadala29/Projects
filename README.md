@@ -3,6 +3,9 @@
 ## Overview
 This Tableau project provides an interactive dashboard for analyzing NYC park events. The dashboard is designed to offer insights into event distribution, trends, and geographic patterns, assisting stakeholders in data-driven decision-making.
 
+<img width="998" alt="NYC_EVENTS" src="https://github.com/user-attachments/assets/2b37db1b-ccd5-4ebb-bc15-6d70f5bf7f0d" />
+
+
 ## Objectives
 - Visualize the distribution of events across NYC boroughs and parks.
 - Identify seasonal and monthly trends in event occurrences.
@@ -32,6 +35,7 @@ The dataset used in this project is sourced from NYC Open Data, providing compre
 - **Software**: Tableau Desktop 2023.3 or higher.
 - **Skills**: Basic knowledge of Tableau for effective navigation and interaction.
 
+
 ## Author
 - **Name**: Shreya Pagadala  
 - **Email**: [pagadala.sh@northeastern.edu](mailto:pagadala.sh@northeastern.edu)  
@@ -41,6 +45,7 @@ The dataset used in this project is sourced from NYC Open Data, providing compre
 - **Live Data Integration**: Incorporate live feeds for real-time updates.
 - **Advanced Analytics**: Add demographic analysis and seasonal event patterns.
 - **Mobile Optimization**: Adapt dashboard for mobile accessibility.
+
 
 ## File Structure
 - `NYC_Park_Events.twbx`: Tableau workbook containing all visualizations and datasets.
